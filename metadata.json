@@ -1,0 +1,5 @@
+{
+  "name": "DataMine Pro",
+  "description": "A premium dataset generator leveraging Google Search to compile real-world, high-value structured data for analysis and machine learning.",
+  "requestFramePermissions": []
+}
